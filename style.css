@@ -1,0 +1,12 @@
+div {
+  margin-block: 5rem;
+  display: flex;
+}
+div p {
+  /* background-color: blue; */
+  margin: 0.5rem;
+  /* display: grid;
+  align-content: center;
+  align-items: center;
+  text-align: center; */
+}
