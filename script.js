@@ -3,7 +3,7 @@ const bc = [
   { name: "Vaskemaskiner", link: "/hvidevarer/vaskemaskiner" },
   { name: "Bosch", link: "/hvidevarer/vaskemaskiner/bosch/" },
 ];
-
+// ***** for nu en lidt hardcod'ed version ***
 document.querySelector("button").addEventListener("click", breadCrumbs);
 
 // breadCrumbs();
